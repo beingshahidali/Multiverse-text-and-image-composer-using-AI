@@ -158,8 +158,7 @@ textarea {
 textarea::placeholder {
     color: var(--medium-dark);
     font-size: 88%;
-    opacity: 0.8;
-}
+    opacity: 0.8;}
 
 
 
