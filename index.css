@@ -19,8 +19,7 @@ body {
     background-size: cover;
     background-repeat: repeat-y;
     background-image: url('images/moviepitchbg-dark.jpg');
-    height: 100vh;
-    
+    height: 100vh;    
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -159,8 +158,7 @@ textarea {
 textarea::placeholder {
     color: var(--medium-dark);
     font-size: 88%;
-    opacity: 0.8;
-}
+    opacity: 0.8;}
 
 
 
