@@ -11,6 +11,7 @@ const configuration = new Configuration({
   apiKey: "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"
 })
 
+
 const openai = new OpenAIApi(configuration)
 
 document.getElementById("send-btn").addEventListener("click", () => {
