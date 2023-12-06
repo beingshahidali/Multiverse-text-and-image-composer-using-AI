@@ -8,7 +8,7 @@ var downloadButton = document.getElementById('download-image-btn');
 var copyButton = document.getElementById('copy-text-btn');
 
 const configuration = new Configuration({
-  apiKey: "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"
+  apiKey: "sk-"
 })
 
 
